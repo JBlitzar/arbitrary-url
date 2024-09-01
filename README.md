@@ -18,3 +18,6 @@ https://jblitzar.github.io/arbitrary-url/
 
 
 [ⓙⓑⓛⓘⓣⓩⓐⓡ.ⓖⓘⓣⓗⓤⓑ.ⓘⓞ](https://jblitzar.github.io/arbitrary-url/)
+
+
+[https://tinyurl.com/jblitzar](https://tinyurl.com/jblitzar)
