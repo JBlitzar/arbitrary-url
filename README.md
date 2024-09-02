@@ -24,9 +24,9 @@ https://jblitzar.github.io/arbitrary-url/
 
 
 
-|https://bit.ly/‍‍‍‍‍‍‍‍|
+|[https://bit.ly/‍‍‍‍‍‍‍‍](https://bit.ly/‍‍‍‍‍‍‍‍)|
 
 
-https://bit.ly/ˈ
+[https://bit.ly/ˈ](https://bit.ly/ˈ)
 
-https://bit.ly/̇
+[https://bit.ly/̇](https://bit.ly/̇)
