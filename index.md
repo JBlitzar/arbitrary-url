@@ -27,8 +27,10 @@
 [https://tinyurl.com/jblitzar](https://tinyurl.com/jblitzar)
 
 
-
-|[https://bit.ly/‍‍‍‍‍‍‍‍](https://bit.ly/‍‍‍‍‍‍‍‍)|
+[https://bit.ly/‍‍‍‍‍‍‍‍](https://bit.ly/‍‍‍‍‍‍‍‍)
+```
+https://bit.ly/‍‍‍‍‍‍‍‍
+```
 
 
 [https://bit.ly/ˈ](https://bit.ly/ˈ)
