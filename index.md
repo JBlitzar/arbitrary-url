@@ -1,21 +1,8 @@
 # arbitrary-url
 
+{% include script.html %}
 
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    console.log('JavaScript is working!');
-  });
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-153400SX3J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-153400SX3J');
-</script>
 
 
 
