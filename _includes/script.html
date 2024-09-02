@@ -13,3 +13,13 @@
   gtag('config', 'G-153400SX3J');
 </script>
 
+<script>
+  const redirects = {
+    "topdot":"#",
+    "bitly-vert":"#",
+    "bitly-zwj":"#",
+    "bitly-j":"#",
+  }
+
+  var a = new URLSearchParams(window.location.search).get('from');if(a && redirects[a]){window.location = redirects[a]}
+</script>
