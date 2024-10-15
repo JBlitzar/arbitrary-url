@@ -35,7 +35,7 @@ https://bit.ly/‍‍‍‍‍‍‍‍
 
 [https://bit.ly/ˈ](https://bit.ly/ˈ)
 
-[%6A%62%6C%69%74%7A%61%72.github.io/arbitrary-url](%6A%62%6C%69%74%7A%61%72.github.io/arbitrary-url)
+[%6A%62%6C%69%74%7A%61%72.github.io/arbitrary-url](https://%6A%62%6C%69%74%7A%61%72.github.io/arbitrary-url)
 
 
 
