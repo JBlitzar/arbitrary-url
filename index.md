@@ -40,6 +40,8 @@ https://bit.ly/‍‍‍‍‍‍‍‍
 
 [http://cards.43z.one/685m4vr](http://cards.43z.one/685m4vr)
 
+[http://cards｡₄𝟥𝓏｡𝔒𝒩𝔢/fcwbx4e](http://cards｡₄𝟥𝓏｡𝔒𝒩𝔢/fcwbx4e)
+
 
 
 [https://bit.ly/̇](https://bit.ly/̇)
