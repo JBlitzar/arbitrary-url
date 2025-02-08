@@ -38,6 +38,9 @@ https://bit.ly/‍‍‍‍‍‍‍‍
 [%6A%62%6C%69%74%7A%61%72.github.io/arbitrary-url](https://%6A%62%6C%69%74%7A%61%72.github.io/arbitrary-url)
 
 
+[http://cards.43z.one/685m4vr](http://cards.43z.one/685m4vr)
+
+
 
 [https://bit.ly/̇](https://bit.ly/̇)
 
